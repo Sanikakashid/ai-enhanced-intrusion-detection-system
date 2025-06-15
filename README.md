@@ -13,14 +13,14 @@ By combining advanced *Random Forest Classification* with cybersecurity domain k
 
 ## Output Screenshots
 
-### Landing Page
-![Homepage](https://drive.google.com/uc?export=view&id=1rzTLr9ovOKFGxVpWdJdW3tLM4G7uCmqb)
-
 ### Result 1
-![Result](https://drive.google.com/uc?export=view&id=1yMtyhShok9n3rdWZZbE2eLB7gCIixkif)
+![Homepage](https://drive.google.com/uc?export=view&id=1NfizWEK2OBcDLMZE0nXZOA9L93SVIm3C)
 
 ### Result 2
-![Result](https://drive.google.com/uc?export=view&id=1mkRYU239TZehRSEf2wJR6wpj7UGhAa-R)
+![Result 1](https://drive.google.com/uc?export=view&id=1k4Y8v6PlJ1RkXeX26S_enheLjRW5I5rE)
+
+### Result 3
+![Result 2](https://drive.google.com/uc?export=view&id=1YPuyTQT06itoL8qrQHx7GPk94SibUb9D)
 
 
 ---
@@ -104,7 +104,7 @@ python app.py
 ```
 
 Open your browser and go to:  
-  [http://localhost:5000]
+  [http://127.0.0.1:5000/]
 
 ---
 
